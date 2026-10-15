@@ -1,2 +1,3 @@
 # Project1
-My first GiiHub Project 
+My first GitHub Project 
+Building My First Project
